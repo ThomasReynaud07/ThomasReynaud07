@@ -32,10 +32,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasReynaud07-dev&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasReynaud07-dev&layout=compact&theme=tokyonight" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ThomasReynaud07&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasReynaud07&layout=compact&theme=tokyonight" alt="Top Langs" /> </p>
 
 ---
 
